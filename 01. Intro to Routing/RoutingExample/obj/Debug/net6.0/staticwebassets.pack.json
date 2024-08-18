@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\TaiLieuLT\\AspNet\\AspNetCore-Harsha-main\\04. Routing\\01. Intro to Routing\\RoutingExample\\wwwroot\\51b6d60b1584b0dae9953.jpg",
+      "PackagePath": "staticwebassets\\51b6d60b1584b0dae9953.jpg"
+    },
+    {
+      "Id": "D:\\TaiLieuLT\\AspNet\\AspNetCore-Harsha-main\\04. Routing\\01. Intro to Routing\\RoutingExample\\wwwroot\\test.jpg",
+      "PackagePath": "staticwebassets\\test.jpg"
+    },
+    {
+      "Id": "D:\\TaiLieuLT\\AspNet\\AspNetCore-Harsha-main\\04. Routing\\01. Intro to Routing\\RoutingExample\\wwwroot\\testpdf.pdf",
+      "PackagePath": "staticwebassets\\testpdf.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RoutingExample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RoutingExample.props",
+      "PackagePath": "build\\RoutingExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RoutingExample.props",
+      "PackagePath": "buildMultiTargeting\\RoutingExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RoutingExample.props",
+      "PackagePath": "buildTransitive\\RoutingExample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

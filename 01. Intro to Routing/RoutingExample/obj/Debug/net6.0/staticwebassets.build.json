@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "ntJkiGlAGRz+nrWgT6sAaEqXROKCBfw6PO5AJ9H+h9w=",
+  "Source": "RoutingExample",
+  "BasePath": "_content/RoutingExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RoutingExample\\wwwroot",
+      "Source": "RoutingExample",
+      "ContentRoot": "D:\\TaiLieuLT\\AspNet\\AspNetCore-Harsha-main\\04. Routing\\01. Intro to Routing\\RoutingExample\\wwwroot\\",
+      "BasePath": "_content/RoutingExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\TaiLieuLT\\AspNet\\AspNetCore-Harsha-main\\04. Routing\\01. Intro to Routing\\RoutingExample\\wwwroot\\51b6d60b1584b0dae9953.jpg",
+      "SourceId": "RoutingExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TaiLieuLT\\AspNet\\AspNetCore-Harsha-main\\04. Routing\\01. Intro to Routing\\RoutingExample\\wwwroot\\",
+      "BasePath": "_content/RoutingExample",
+      "RelativePath": "51b6d60b1584b0dae9953.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\51b6d60b1584b0dae9953.jpg"
+    },
+    {
+      "Identity": "D:\\TaiLieuLT\\AspNet\\AspNetCore-Harsha-main\\04. Routing\\01. Intro to Routing\\RoutingExample\\wwwroot\\test.jpg",
+      "SourceId": "RoutingExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TaiLieuLT\\AspNet\\AspNetCore-Harsha-main\\04. Routing\\01. Intro to Routing\\RoutingExample\\wwwroot\\",
+      "BasePath": "_content/RoutingExample",
+      "RelativePath": "test.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\test.jpg"
+    },
+    {
+      "Identity": "D:\\TaiLieuLT\\AspNet\\AspNetCore-Harsha-main\\04. Routing\\01. Intro to Routing\\RoutingExample\\wwwroot\\testpdf.pdf",
+      "SourceId": "RoutingExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TaiLieuLT\\AspNet\\AspNetCore-Harsha-main\\04. Routing\\01. Intro to Routing\\RoutingExample\\wwwroot\\",
+      "BasePath": "_content/RoutingExample",
+      "RelativePath": "testpdf.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\testpdf.pdf"
+    }
+  ]
+}
