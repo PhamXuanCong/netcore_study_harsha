@@ -1,15 +1,15 @@
 {
   "Files": [
     {
-      "Id": "D:\\TaiLieuLT\\AspNet\\AspNetCore-Harsha-main\\04. Routing\\01. Intro to Routing\\RoutingExample\\wwwroot\\51b6d60b1584b0dae9953.jpg",
+      "Id": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\wwwroot\\51b6d60b1584b0dae9953.jpg",
       "PackagePath": "staticwebassets\\51b6d60b1584b0dae9953.jpg"
     },
     {
-      "Id": "D:\\TaiLieuLT\\AspNet\\AspNetCore-Harsha-main\\04. Routing\\01. Intro to Routing\\RoutingExample\\wwwroot\\test.jpg",
+      "Id": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\wwwroot\\test.jpg",
       "PackagePath": "staticwebassets\\test.jpg"
     },
     {
-      "Id": "D:\\TaiLieuLT\\AspNet\\AspNetCore-Harsha-main\\04. Routing\\01. Intro to Routing\\RoutingExample\\wwwroot\\testpdf.pdf",
+      "Id": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\wwwroot\\testpdf.pdf",
       "PackagePath": "staticwebassets\\testpdf.pdf"
     },
     {

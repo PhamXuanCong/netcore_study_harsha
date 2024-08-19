@@ -4,7 +4,7 @@ namespace RoutingExample.Model
 {
     public class Person
     {
-        [Required]
+        [Required(ErrorMessage = "{0} can't be blank")]
         public string? PersonName { get; set; }
         public Guid Id { get; set; }
         public string? FirstName { get; set; }

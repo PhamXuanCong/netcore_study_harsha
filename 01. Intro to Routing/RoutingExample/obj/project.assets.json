@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TaiLieuLT\\AspNet\\AspNetCore-Harsha-main\\04. Routing\\01. Intro to Routing\\RoutingExample\\RoutingExample.csproj",
+      "projectUniqueName": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\RoutingExample.csproj",
       "projectName": "RoutingExample",
-      "projectPath": "D:\\TaiLieuLT\\AspNet\\AspNetCore-Harsha-main\\04. Routing\\01. Intro to Routing\\RoutingExample\\RoutingExample.csproj",
+      "projectPath": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\RoutingExample.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\TaiLieuLT\\AspNet\\AspNetCore-Harsha-main\\04. Routing\\01. Intro to Routing\\RoutingExample\\obj\\",
+      "outputPath": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
