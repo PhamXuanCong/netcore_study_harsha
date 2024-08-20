@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|d:\\tailieult\\aspnet\\netcore_study_harsha\\01. intro to routing\\routingexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|d:\\tailieult\\aspnet\\netcore_study_harsha\\01. intro to routing\\routingexample\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|d:\\tailieult\\aspnet\\netcore_study_harsha\\01. intro to routing\\routingexample\\customvalidators\\minimumvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\customvalidators\\minimumvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|d:\\tailieult\\aspnet\\netcore_study_harsha\\01. intro to routing\\routingexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DateRangeValidatorAttribute.cs",
               "DocumentMoniker": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\CustomValidators\\DateRangeValidatorAttribute.cs",
               "RelativeDocumentMoniker": "RoutingExample\\CustomValidators\\DateRangeValidatorAttribute.cs",
               "ToolTip": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\CustomValidators\\DateRangeValidatorAttribute.cs",
               "RelativeToolTip": "RoutingExample\\CustomValidators\\DateRangeValidatorAttribute.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAFAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T16:10:50.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MinimumValidatorAttribute.cs",
               "DocumentMoniker": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\CustomValidators\\MinimumValidatorAttribute.cs",
               "RelativeDocumentMoniker": "RoutingExample\\CustomValidators\\MinimumValidatorAttribute.cs",
               "ToolTip": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\CustomValidators\\MinimumValidatorAttribute.cs",
               "RelativeToolTip": "RoutingExample\\CustomValidators\\MinimumValidatorAttribute.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIAwwAgAAAAqAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAArwAgAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T14:19:31.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Person.cs",
               "DocumentMoniker": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Model\\Person.cs",
               "RelativeDocumentMoniker": "RoutingExample\\Model\\Person.cs",
               "ToolTip": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Model\\Person.cs",
               "RelativeToolTip": "RoutingExample\\Model\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowA4AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T15:52:55.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "RoutingExample\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Controllers\\HomeController.cs",
               "RelativeToolTip": "RoutingExample\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABQAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T14:09:19.866Z",
               "EditorCaption": ""

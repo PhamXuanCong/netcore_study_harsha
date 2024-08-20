@@ -8,7 +8,7 @@ namespace RoutingExample.Controllers
     {
 
         [Route("register")]
-        public IActionResult RegisterResult(Person person)
+        public IActionResult RegisterResult([FromBody]Person person)
         {
             if (!ModelState.IsValid)
             {
