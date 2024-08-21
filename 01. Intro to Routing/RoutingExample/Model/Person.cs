@@ -44,7 +44,7 @@ namespace RoutingExample.Model
 
         public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
         {
-            if (DateOfBirth != null)
+            if (DateOfBirth == null)
             {
                 var dateOfBirth = DateOfBirth.Value.Year;
 

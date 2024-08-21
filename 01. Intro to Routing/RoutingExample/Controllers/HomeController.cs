@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using RoutingExample.Model;
 using System.Net;
+using RoutingExample.CustomModelBinders;
 
 namespace RoutingExample.Controllers
 {
@@ -8,7 +9,8 @@ namespace RoutingExample.Controllers
     {
 
         [Route("register")]
-        public IActionResult RegisterResult([FromBody]Person person)
+        //[FromBody] [ModelBinder(BinderType = typeof(PersonModelBinder))]Person person
+        public IActionResult RegisterResult(Person person, [FromHeader(Name = "Accept")] string userAgent)
         {
             if (!ModelState.IsValid)
             {
@@ -17,7 +19,7 @@ namespace RoutingExample.Controllers
 
                 return BadRequest(errors);
             }
-            return Content($"{person}");
+            return Content($"{person}, {userAgent}");
         }
 
         [Route("bookstore/{isloggedin?}/{bookid?}")]

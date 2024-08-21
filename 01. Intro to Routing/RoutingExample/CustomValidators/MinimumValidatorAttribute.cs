@@ -30,7 +30,6 @@ namespace RoutingExample.CustomValidators
                     return ValidationResult.Success;
                 }
             }
-
             return null;
         }
     }
