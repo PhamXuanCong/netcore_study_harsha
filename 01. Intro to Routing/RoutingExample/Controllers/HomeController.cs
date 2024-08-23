@@ -7,6 +7,12 @@ namespace RoutingExample.Controllers
 {
     public class HomeController : Controller
     {
+        [Route("home")]
+        [Route("/")]
+        public IActionResult Index()
+        {
+            return View("Index");
+        }
 
         [Route("register")]
         //[FromBody] [ModelBinder(BinderType = typeof(PersonModelBinder))]Person person
@@ -79,9 +85,8 @@ namespace RoutingExample.Controllers
         //isloggedin should be true
 
 
-        [Route("home")]
-        [Route("/")]
-        public ContentResult Index()
+        [Route("home1")]
+        public ContentResult Indexq()
         {
             return Content("<h1>Welcome</h1> <h2>Hello from Index</h2>", "text/html");
         }

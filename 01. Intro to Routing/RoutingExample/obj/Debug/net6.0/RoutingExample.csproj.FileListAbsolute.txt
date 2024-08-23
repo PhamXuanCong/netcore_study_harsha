@@ -51,3 +51,5 @@ D:\TaiLieuLT\AspNet\netcore_study_harsha\01. Intro to Routing\RoutingExample\obj
 D:\TaiLieuLT\AspNet\netcore_study_harsha\01. Intro to Routing\RoutingExample\obj\Debug\net6.0\RoutingExample.pdb
 D:\TaiLieuLT\AspNet\netcore_study_harsha\01. Intro to Routing\RoutingExample\obj\Debug\net6.0\RoutingExample.genruntimeconfig.cache
 D:\TaiLieuLT\AspNet\netcore_study_harsha\01. Intro to Routing\RoutingExample\obj\Debug\net6.0\ref\RoutingExample.dll
+D:\TaiLieuLT\AspNet\netcore_study_harsha\01. Intro to Routing\RoutingExample\obj\Debug\net6.0\RoutingExample.RazorAssemblyInfo.cache
+D:\TaiLieuLT\AspNet\netcore_study_harsha\01. Intro to Routing\RoutingExample\obj\Debug\net6.0\RoutingExample.RazorAssemblyInfo.cs

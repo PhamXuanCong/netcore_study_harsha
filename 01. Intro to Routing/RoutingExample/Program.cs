@@ -2,11 +2,12 @@
 using RoutingExample.CustomModelBinders;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddControllers(options =>
-{
-    options.ModelBinderProviders.Insert(0, new PersonBinderProvider());
-}); //adds all the controller classes as services
-builder.Services.AddControllers().AddXmlSerializerFormatters();
+builder.Services.AddControllersWithViews();
+//builder.Services.AddControllers(options =>
+//{
+//    options.ModelBinderProviders.Insert(0, new PersonBinderProvider());
+//}); //adds all the controller classes as services
+//builder.Services.AddControllers().AddXmlSerializerFormatters();
 
 var app = builder.Build();
 
@@ -138,7 +139,8 @@ var app = builder.Build();
 #region Controller
 
 app.UseRouting();
-app.MapControllers();
 #endregion
 
+app.UseStaticFiles();
+app.MapControllers();
 app.Run();
