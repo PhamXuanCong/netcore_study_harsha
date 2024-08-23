@@ -2,6 +2,9 @@
 using RoutingExample.Model;
 using System.Net;
 using RoutingExample.CustomModelBinders;
+using RoutingExample.Models;
+using Person = RoutingExample.Model.Person;
+using Person1 = RoutingExample.Models.Person;
 
 namespace RoutingExample.Controllers
 {
@@ -11,7 +14,17 @@ namespace RoutingExample.Controllers
         [Route("/")]
         public IActionResult Index()
         {
-            return View("Index");
+            ViewData["appTitle"] = "Asp.Net Core Demo App";
+
+            List<Person1> people = new List<Person1>()
+            {
+                new Person1() { Name = "John", DateOfBirth = DateTime.Parse("2000-05-06"), PersonGender = Gender.Male},
+                new Person1() { Name = "Linda", DateOfBirth = DateTime.Parse("2005-01-09"), PersonGender = Gender.Female},
+                new Person1() { Name = "Susan", DateOfBirth = DateTime.Parse("2008-07-12"), PersonGender = Gender.Other}
+            };
+            ViewBag.people = people;
+
+            return View();
         }
 
         [Route("register")]

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4zRLCgMbDsSe03V3mU7xxL6gPpXBvquVcBaQDVOFtu0=",
+  "Hash": "UzhhK+6FKksO2qd2x4xkDWDlgBSE76yMc5AKoLCz/GY=",
   "Source": "RoutingExample",
   "BasePath": "_content/RoutingExample",
   "Mode": "Default",
@@ -34,6 +34,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\51b6d60b1584b0dae9953.jpg"
+    },
+    {
+      "Identity": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "RoutingExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\wwwroot\\",
+      "BasePath": "_content/RoutingExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
     },
     {
       "Identity": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\wwwroot\\test.jpg",

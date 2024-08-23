@@ -7,16 +7,8 @@
       "RelativeMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|d:\\tailieult\\aspnet\\netcore_study_harsha\\01. intro to routing\\routingexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|d:\\tailieult\\aspnet\\netcore_study_harsha\\01. intro to routing\\routingexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|d:\\tailieult\\aspnet\\netcore_study_harsha\\01. intro to routing\\routingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "RoutingExample\\Models\\Person.cs",
-              "ToolTip": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Models\\Person.cs",
-              "RelativeToolTip": "RoutingExample\\Models\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RoutingExample\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RoutingExample\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T23:25:37.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Program.cs",
-              "RelativeDocumentMoniker": "RoutingExample\\Program.cs",
-              "ToolTip": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Program.cs",
-              "RelativeToolTip": "RoutingExample\\Program.cs",
-              "ViewState": "AQIAAIcAAAAAAAAAAAAAAI8AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T22:55:30.807Z",
+              "WhenOpened": "2024-08-23T15:59:03.41Z",
               "EditorCaption": ""
             },
             {
@@ -62,22 +41,9 @@
               "RelativeDocumentMoniker": "RoutingExample\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "RoutingExample\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAABwAAAAdAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-22T22:52:41.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "RoutingExample\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "RoutingExample\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:02:09.016Z",
               "EditorCaption": ""
             }
           ]

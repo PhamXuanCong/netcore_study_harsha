@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\51b6d60b1584b0dae9953.jpg"
     },
     {
+      "Id": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
       "Id": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\wwwroot\\test.jpg",
       "PackagePath": "staticwebassets\\test.jpg"
     },

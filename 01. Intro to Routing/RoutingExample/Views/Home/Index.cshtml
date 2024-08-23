@@ -1,42 +1,34 @@
 ﻿@using RoutingExample.Models
-@{
-    string appTitle = "Asp.Net Core Demo App";
-    Person person = new Person() { Name = "Cong dep trai", DateOfBirth = null,PersonGender = Gender.Male};
-}
 
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Asp.net Core App1</title>
+    <title>@ViewBag.appTitle</title>
     <meta charset="utf-8" />
+    <link href="~/StyleSheet.css" rel="stylesheet" />
 </head>
 <body>
-<h1>
-    Welcome
-</h1>
-<h2> hello @person.Name</h2>
-
-@if(person.DateOfBirth.HasValue){
-    double age = Math.Round((DateTime.Now - person.DateOfBirth).Value.TotalDays / 365.25);
-
-    <h3> @age years old</h3>
-}
-else
-{
-    <h3>Date of birth is unknown</h3>
-}
-
-@switch (person.PersonGender)
-{
-    case Gender.Female:
-        <p>March 8 is International Women's Day</p>
-        ;
-        break;
-
-    case Gender.Male:
-        <p>November 19 is International Men's Day</p>
-        ;
-        break;
-}
+    <div class="page-content">
+        <h1>Welcome</h1>
+       
+        @foreach (Person person in ViewBag.people)
+        {
+            <div class="box float-left w-50">
+                <h3>@person.Name</h3>
+                <table class="table w-100">
+                    <tbody>
+                        <tr>
+                            <td>Gender</td>
+                            <td>@person.PersonGender</td>
+                        </tr>
+                        <tr>
+                            <td>Date of Birth</td>
+                            <td>@person.DateOfBirth.Value.ToString("MM/dd/yyyy")</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        }
+    </div>
 </body>
 </html>
