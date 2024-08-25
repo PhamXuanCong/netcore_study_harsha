@@ -12,6 +12,7 @@
 
 .container {
     min-width: 500px;
+    margin-top: 100px;
 }
 
 .navbar {
@@ -57,11 +58,34 @@
 
 .page-content {
     padding: 10px;
-    min-height: 90vh;
+    min-height: 1000px;
+    height: 90vh;
 }
 
 .full-size-height {
     min-height: 100vh;
+}
+
+.margin-top-200 {
+    margin: 200px;
+}
+
+.padding-top-100 {
+    padding-top: 100px;
+}
+
+.blue-back {
+    background-color: #6cb7e6;
+}
+
+
+.green-back {
+    background-color: #e0ff8f;
+}
+
+
+.orange-back {
+    background-color: #faca70;
 }
 
 .table {
@@ -98,12 +122,18 @@
             color: #ffffff;
         }
 
+
+
 .w-25 {
     width: 25%;
 }
 
 .w-50 {
     width: 50%;
+}
+
+.w-30 {
+    width: 30%;
 }
 
 .w-75 {
