@@ -1,0 +1,15 @@
+﻿<h1>Book</h1>
+@{
+    ListModel listModel = new ListModel();
+
+    listModel.ListTitle = "Book Store";
+
+    listModel.ListItems = new List<string>()
+    {
+        "nguoi khon kho",
+        "Hai so phan"
+    };
+
+    await Html.RenderPartialAsync("_ListPartialView", listModel);
+}
+
