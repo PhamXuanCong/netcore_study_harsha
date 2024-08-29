@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using RoutingExample.Models;
 
 namespace RoutingExample.ViewComponents
 {
@@ -6,7 +7,16 @@ namespace RoutingExample.ViewComponents
     {
         public async Task<IViewComponentResult> InvokeAsync()
         {
-            return View("Sample");
+            PersionGridModel personGridModel = new PersionGridModel()
+            {
+                GridTitle = "Persons List",
+                Persons = new List<Person>() {
+                    new Person() { PersonName = "John", JobTitle = "Manager" },
+                    new Person() { PersonName = "Jones", JobTitle = "Asst. Manager" },
+                    new Person() { PersonName = "William", JobTitle = "Clerk" },
+                }
+            };
+            return View("Sample",personGridModel);
         }
     }
 }
