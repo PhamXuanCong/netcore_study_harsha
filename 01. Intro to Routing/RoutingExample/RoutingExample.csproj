@@ -15,4 +15,8 @@
     <Folder Include="mywebroot\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Services\Services.csproj" />
+  </ItemGroup>
+
 </Project>

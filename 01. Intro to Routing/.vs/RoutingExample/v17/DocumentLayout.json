@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|d:\\tailieult\\aspnet\\netcore_study_harsha\\01. intro to routing\\routingexample\\viewcomponents\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\viewcomponents\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD20BC13-6855-4A27-86D0-8B98FDF5399A}|Services\\Services.csproj|d:\\tailieult\\aspnet\\netcore_study_harsha\\01. intro to routing\\services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD20BC13-6855-4A27-86D0-8B98FDF5399A}|Services\\Services.csproj|solutionrelative:services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|d:\\tailieult\\aspnet\\netcore_study_harsha\\01. intro to routing\\routingexample\\views\\shared\\components\\grid\\sample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\views\\shared\\components\\grid\\sample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{871D2BC3-1774-4981-804D-95086FDD10FE}|ServiceContracts\\ServiceContracts.csproj|d:\\tailieult\\aspnet\\netcore_study_harsha\\01. intro to routing\\servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871D2BC3-1774-4981-804D-95086FDD10FE}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|d:\\tailieult\\aspnet\\netcore_study_harsha\\01. intro to routing\\routingexample\\models\\persiongridmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\models\\persiongridmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|d:\\tailieult\\aspnet\\netcore_study_harsha\\01. intro to routing\\routingexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40349F8D-276A-4D50-8579-C0CB90CD472A}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{871D2BC3-1774-4981-804D-95086FDD10FE}|ServiceContracts\\ServiceContracts.csproj|d:\\tailieult\\aspnet\\netcore_study_harsha\\01. intro to routing\\servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{871D2BC3-1774-4981-804D-95086FDD10FE}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Sample.cshtml",
-              "DocumentMoniker": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Views\\Shared\\Components\\Grid\\Sample.cshtml",
-              "RelativeDocumentMoniker": "RoutingExample\\Views\\Shared\\Components\\Grid\\Sample.cshtml",
-              "ToolTip": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Views\\Shared\\Components\\Grid\\Sample.cshtml",
-              "RelativeToolTip": "RoutingExample\\Views\\Shared\\Components\\Grid\\Sample.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T15:11:01.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "RoutingExample\\Models\\Person.cs",
-              "ToolTip": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Models\\Person.cs",
-              "RelativeToolTip": "RoutingExample\\Models\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Title": "ICountriesService.cs",
+              "DocumentMoniker": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\ServiceContracts\\ICountriesService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\ICountriesService.cs",
+              "ToolTip": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\ServiceContracts\\ICountriesService.cs",
+              "RelativeToolTip": "ServiceContracts\\ICountriesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T15:10:17.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GridViewComponent.cs",
-              "DocumentMoniker": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\ViewComponents\\GridViewComponent.cs",
-              "RelativeDocumentMoniker": "RoutingExample\\ViewComponents\\GridViewComponent.cs",
-              "ToolTip": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\ViewComponents\\GridViewComponent.cs",
-              "RelativeToolTip": "RoutingExample\\ViewComponents\\GridViewComponent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T15:08:55.432Z",
+              "WhenOpened": "2024-09-15T14:41:34.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PersionGridModel.cs",
-              "DocumentMoniker": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Models\\PersionGridModel.cs",
-              "RelativeDocumentMoniker": "RoutingExample\\Models\\PersionGridModel.cs",
-              "ToolTip": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\RoutingExample\\Models\\PersionGridModel.cs",
-              "RelativeToolTip": "RoutingExample\\Models\\PersionGridModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Title": "ServiceContracts",
+              "DocumentMoniker": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeDocumentMoniker": "ServiceContracts\\ServiceContracts.csproj",
+              "ToolTip": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeToolTip": "ServiceContracts\\ServiceContracts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-15T14:41:33.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountriesService.cs",
+              "DocumentMoniker": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\Services\\CountriesService.cs",
+              "RelativeDocumentMoniker": "Services\\CountriesService.cs",
+              "ToolTip": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\Services\\CountriesService.cs",
+              "RelativeToolTip": "Services\\CountriesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T15:06:15.794Z",
+              "WhenOpened": "2024-09-15T14:40:39.454Z",
               "EditorCaption": ""
             }
           ]

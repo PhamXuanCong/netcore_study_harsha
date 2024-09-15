@@ -7,14 +7,40 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "RoutingExample/1.0.0": {
+        "dependencies": {
+          "Services": "1.0.0"
+        },
         "runtime": {
           "RoutingExample.dll": {}
+        }
+      },
+      "IServiceContracts/1.0.0": {
+        "runtime": {
+          "IServiceContracts.dll": {}
+        }
+      },
+      "Services/1.0.0": {
+        "dependencies": {
+          "IServiceContracts": "1.0.0"
+        },
+        "runtime": {
+          "Services.dll": {}
         }
       }
     }
   },
   "libraries": {
     "RoutingExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IServiceContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

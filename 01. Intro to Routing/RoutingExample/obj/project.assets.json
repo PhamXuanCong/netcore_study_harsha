@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "IServiceContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/IServiceContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IServiceContracts.dll": {}
+        }
+      },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "IServiceContracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "IServiceContracts/1.0.0": {
+      "type": "project",
+      "path": "../IServiceContracts/IServiceContracts.csproj",
+      "msbuildProject": "../IServiceContracts/IServiceContracts.csproj"
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Services >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Admin\\.nuget\\packages\\": {}
@@ -35,7 +72,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\Services\\Services.csproj": {
+              "projectPath": "D:\\TaiLieuLT\\AspNet\\netcore_study_harsha\\01. Intro to Routing\\Services\\Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

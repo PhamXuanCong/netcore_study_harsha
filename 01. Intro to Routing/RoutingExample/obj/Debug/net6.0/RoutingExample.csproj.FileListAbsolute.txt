@@ -53,3 +53,9 @@ D:\TaiLieuLT\AspNet\netcore_study_harsha\01. Intro to Routing\RoutingExample\obj
 D:\TaiLieuLT\AspNet\netcore_study_harsha\01. Intro to Routing\RoutingExample\obj\Debug\net6.0\ref\RoutingExample.dll
 D:\TaiLieuLT\AspNet\netcore_study_harsha\01. Intro to Routing\RoutingExample\obj\Debug\net6.0\RoutingExample.RazorAssemblyInfo.cache
 D:\TaiLieuLT\AspNet\netcore_study_harsha\01. Intro to Routing\RoutingExample\obj\Debug\net6.0\RoutingExample.RazorAssemblyInfo.cs
+D:\TaiLieuLT\AspNet\netcore_study_harsha\01. Intro to Routing\RoutingExample\bin\Debug\net6.0\Services.dll
+D:\TaiLieuLT\AspNet\netcore_study_harsha\01. Intro to Routing\RoutingExample\bin\Debug\net6.0\Services.pdb
+D:\TaiLieuLT\AspNet\netcore_study_harsha\01. Intro to Routing\RoutingExample\obj\Debug\net6.0\RoutingExample.csproj.AssemblyReference.cache
+D:\TaiLieuLT\AspNet\netcore_study_harsha\01. Intro to Routing\RoutingExample\obj\Debug\net6.0\RoutingE.5B24014F.Up2Date
+D:\TaiLieuLT\AspNet\netcore_study_harsha\01. Intro to Routing\RoutingExample\bin\Debug\net6.0\IServiceContracts.dll
+D:\TaiLieuLT\AspNet\netcore_study_harsha\01. Intro to Routing\RoutingExample\bin\Debug\net6.0\IServiceContracts.pdb
